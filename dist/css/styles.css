@@ -10411,7 +10411,7 @@ header.masthead .masthead-heading {
 }
 .team-member {
   margin-bottom: 3rem;
-  text-align: center;
+  text-align: center !important;
 }
 .team-member img {
   width: 14rem;
